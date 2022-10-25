@@ -1,7 +1,7 @@
 from time import sleep
 from random import randint
 
-print("😎Esse jogo conssiste em perguntas e respostas pessoais para dupla de pessoas!")
+print("😎Esse jogo consiste em perguntas e respostas pessoais para dupla de pessoas!")
 sleep(1)
 
 NOME = list()
@@ -13,31 +13,31 @@ while True:
     if TRANSMISSOR == RECEPTOR:
         continue
     elif TRANSMISSOR == 1:
-        PERGUNTE = "SAMUEL" 
+        PERGUNTE = "PESSOA 1" 
     elif TRANSMISSOR == 2:
-        PERGUNTE = "VALCILDA"
+        PERGUNTE = "PESSOA 2"
     elif TRANSMISSOR == 3:
-        PERGUNTE = "HELIO"
+        PERGUNTE = "PESSOA 3"
     elif TRANSMISSOR == 4:
-        PERGUNTE = "JAQUELINE"
+        PERGUNTE = "PESSOA 4"
     elif TRANSMISSOR == 5:
-        PERGUNTE = "CAROLINE"
+        PERGUNTE = "PESSOA 5"
 
     if RECEPTOR == 1:
-        RESPONDA = "SAMUEL"
-        NOME.append("SAMUEL")
+        RESPONDA = "PESSOA 1"
+        NOME.append("PESSOA 1")
     elif RECEPTOR == 2:
-        RESPONDA = "VALCILDA"
-        NOME.append("VALCILDA")
+        RESPONDA = "PESSOA 2"
+        NOME.append("PESSOA 2")
     elif RECEPTOR == 3:
-        RESPONDA = "HELIO"
-        NOME.append("HELIO")
+        RESPONDA = "PESSOA 3"
+        NOME.append("PESSOA 3")
     elif RECEPTOR == 4:
-        RESPONDA = "JAQUELINE"
-        NOME.append("JAQUELINE")
+        RESPONDA = "PESSOA 4"
+        NOME.append("PESSOA 4")
     elif RECEPTOR == 5:
-        RESPONDA = "CAROLINE"
-        NOME.append("CAROLINE")
+        RESPONDA = "PESSOA 5"
+        NOME.append("PESSOA 5")
     
     print()
     print("=" *100)
