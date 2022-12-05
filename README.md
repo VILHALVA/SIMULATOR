@@ -11,8 +11,8 @@
 
 ## PRA QUÊ SERVE?
 
-* ✅Serve para você copiar o codigo e executar no console da sua IDE.
-* ✅Por padrão, sua aparência é com comandos no terminal (CMD).
+* ✅Serve para você copiar o código e executar no console da sua IDE.
+* ✅Por padrão, sua aparência é como comandos no Terminal (CMD).
 * ✅Você pode interagir com os inputs.
 
 ## REQUESITOS:
