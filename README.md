@@ -9,7 +9,7 @@
 
 <img src="https://s.yimg.com/ny/api/res/1.2/dbABoSLb1P4xB_NvUtYThQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2021-09/bd100ab0-0abb-11ec-bf3d-86a63775ab8a" align="right" width="250">
 
-## PRA QUÊ SERVE?
+## PARA QUÊ SERVE?
 
 * ✅ Serve para você copiar o código e executar no console da sua IDE.
 * ✅ Por padrão, sua aparência é como comandos no Terminal (CMD).
