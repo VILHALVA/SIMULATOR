@@ -11,18 +11,18 @@
 
 ## PRA QUÊ SERVE?
 
-* ✅Serve para você copiar o código e executar no console da sua IDE.
-* ✅Por padrão, sua aparência é como comandos no Terminal (CMD).
-* ✅Você pode interagir com os inputs.
+* ✅ Serve para você copiar o código e executar no console da sua IDE.
+* ✅ Por padrão, sua aparência é como comandos no Terminal (CMD).
+* ✅ Você pode interagir com os inputs.
 
 ## REQUESITOS:
 ### PARA COMPUTADORES:
-* ✅Para rodar você precisa:
+* ✅ Para rodar você precisa:
 * 🔸 Ter o Python instalado na sua maquina.
 * 🔸 Ter uma IDE que execute o código.
 ### PARA CELULARES:
 * ✅ Apesar do código ter sido feito para ser executado apenas em computadores, ele pode rodar também em celulares. Basta você:
 * 🔸 Instalar um aplicativo que edita e executa códigos em Python.
 ## LICENÇA:
-* ✅Você é livre para baixar e clonar o repositório. E principalmente, fazer melhorias em algum script. Se quizer divulgar com sua marca, não se esqueça de dar os devidos creditos.
+* ✅ Você é livre para baixar e clonar o repositório. E principalmente, fazer melhorias em algum script. Se quizer divulgar com sua marca, não se esqueça de dar os devidos creditos.
 
