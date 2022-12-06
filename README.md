@@ -5,7 +5,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOPG)
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20OCODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
 
 <img src="https://s.yimg.com/ny/api/res/1.2/dbABoSLb1P4xB_NvUtYThQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2021-09/bd100ab0-0abb-11ec-bf3d-86a63775ab8a" align="right" width="250">
 
